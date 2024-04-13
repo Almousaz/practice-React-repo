@@ -11,14 +11,6 @@ function App() {
 }
 
 
-function Navbar(){
-
-  return(
-    <div>
-      <h1>Test</h1>
-    </div>
-  )
-}
 
 
 
